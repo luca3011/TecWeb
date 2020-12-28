@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="TW_Esercizio2_15012020">
+        <wb-resource deploy-path="/" source-path="/web" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/test"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/init"/>
+        <property name="context-root" value="TW_Esercizio2_15012020"/>
+        <property name="java-output-path" value="/TW_Esercizio2_15012020/bin"/>
+    </wb-module>
+</project-modules>
